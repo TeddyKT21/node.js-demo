@@ -1,0 +1,119 @@
+[
+    {
+        "id": "a",
+        "email": "person@human.com",
+        "password": "123456",
+        "product": {
+            "id": 1,
+            "title": "iPhone 9",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/1/1.jpg",
+                "https://i.dummyjson.com/data/products/1/2.jpg",
+                "https://i.dummyjson.com/data/products/1/3.jpg",
+                "https://i.dummyjson.com/data/products/1/4.jpg",
+                "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+            ]
+        }
+    },
+    {
+        "id": "b",
+        "email": "person@human2.com",
+        "password": "123456",
+        "product": {
+            "id": 1,
+            "title": "iPhone 9",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/1/1.jpg",
+                "https://i.dummyjson.com/data/products/1/2.jpg",
+                "https://i.dummyjson.com/data/products/1/3.jpg",
+                "https://i.dummyjson.com/data/products/1/4.jpg",
+                "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+            ]
+        }
+    },
+    {
+        "id": "c",
+        "email": "person@human3.com",
+        "password": "123456",
+        "product": {
+            "id": 1,
+            "title": "iPhone 9",
+            "description": "An apple mobile which is nothing like apple",
+            "price": 549,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+            "images": [
+                "https://i.dummyjson.com/data/products/1/1.jpg",
+                "https://i.dummyjson.com/data/products/1/2.jpg",
+                "https://i.dummyjson.com/data/products/1/3.jpg",
+                "https://i.dummyjson.com/data/products/1/4.jpg",
+                "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+            ]
+        }
+    },
+    {
+        "email": "person@human4.com",
+        "password": "12346",
+        "id": "f3d48860-19ae-11ee-bf10-ff047470a7e6"
+    },
+    {
+        "email": "person@human5.com",
+        "password": "$2b$06$Y.3w5bOPmDesffqp3Uz9JOu0XsxNnPxpOdFYMVTjh39NPjLNwhVyC",
+        "id": "a43354b0-19b0-11ee-89be-0994f1adc75d"
+    },
+    {
+        "email": "person@human6.com",
+        "password": "$2b$06$5yo9e0Z7rWBJ4.T0Dri6Oe7KtTSg4Bs9TpzdqgYDh.gJnm9DAxdLy",
+        "id": "3b7f9a10-19b4-11ee-8af7-69706e3af91b"
+    },
+    {
+        "email": "person@human7.com",
+        "password": "$2b$06$HuTue6FAEMNJRJ8QN4VbQOvZy69RmV1YJJmB7uEBlV05mOTS/Psq6",
+        "id": "c311b740-1a2e-11ee-be46-316895a6e22e"
+    },
+    {
+        "email": "effy.asd@gmail.com",
+        "password": "$2b$06$YqQXPnSnKQ4rkSWBkowZj.g26Tn1wqd.v1M5MuzDu3E6.PMdTcxc2",
+        "id": "1ab25770-1e26-11ee-9eba-2dec95961abb"
+    },
+    {
+        "email": "effy.asd@gmail.com",
+        "password": "$2b$06$rznBhnolyJw.8heNLVibJ.wDmBDkjRt8ble4QDRKNRIIakD59sOgu",
+        "id": "41fd8bb0-1e26-11ee-bbac-49ba430be721"
+    },
+    {
+        "email": "effy.asd@gmail.com",
+        "password": "$2b$06$YCnIWVRl3iSMMcALqqLJr.0o.1ilBuTJc86TLGX4Arl0s96VQvqAu",
+        "id": "4424d880-1e26-11ee-a05c-4dd58d2e931e"
+    },
+    {
+        "email": "effy.asd@gmail.com",
+        "password": "$2b$06$VJz86mppoMSup/TABB./xuvhfgixFsI/9GfgozeKRVmkXmk.gM3ty",
+        "id": "63ee0d80-1e26-11ee-9b74-97c2732b1879"
+    },
+    {
+        "email": "effy.asd@gmail.com",
+        "password": "$2b$06$AMa7Lf8D5m2ip.b.bdtZsexXWEPvNVb9NrS7Qg/A6sGJ8jNsavc3e",
+        "id": "d07393d0-1e26-11ee-b10d-ffd71c61df7b"
+    }
+]
